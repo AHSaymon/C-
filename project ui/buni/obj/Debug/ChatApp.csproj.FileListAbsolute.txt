@@ -1,0 +1,13 @@
+C:\Users\Supto\Desktop\bleh\project ui\buni\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+C:\Users\Supto\Desktop\bleh\project ui\buni\obj\Debug\ChatApp.EditProfile.resources
+C:\Users\Supto\Desktop\bleh\project ui\buni\obj\Debug\ChatApp.UserForm.resources
+C:\Users\Supto\Desktop\bleh\project ui\buni\obj\Debug\ChatApp.Login.resources
+C:\Users\Supto\Desktop\bleh\project ui\buni\obj\Debug\buni.Properties.Resources.resources
+C:\Users\Supto\Desktop\bleh\project ui\buni\obj\Debug\ChatApp.Signup.resources
+C:\Users\Supto\Desktop\bleh\project ui\buni\obj\Debug\ChatApp.csproj.GenerateResource.Cache
+C:\Users\Supto\Desktop\bleh\project ui\buni\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\Supto\Desktop\bleh\project ui\buni\obj\Debug\buni.exe
+C:\Users\Supto\Desktop\bleh\project ui\buni\obj\Debug\buni.pdb
+C:\Users\Supto\Desktop\bleh\project ui\buni\bin\Debug\buni.exe.config
+C:\Users\Supto\Desktop\bleh\project ui\buni\bin\Debug\buni.exe
+C:\Users\Supto\Desktop\bleh\project ui\buni\bin\Debug\buni.pdb
