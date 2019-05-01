@@ -1,0 +1,26 @@
+F:\ClickCounter\ClickCounter\bin\Debug\ClickCounter.exe.config
+F:\ClickCounter\ClickCounter\bin\Debug\ClickCounter.exe.manifest
+F:\ClickCounter\ClickCounter\bin\Debug\ClickCounter.application
+F:\ClickCounter\ClickCounter\bin\Debug\ClickCounter.exe
+F:\ClickCounter\ClickCounter\bin\Debug\ClickCounter.pdb
+F:\ClickCounter\ClickCounter\obj\Debug\ClickCounter.csprojResolveAssemblyReference.cache
+F:\ClickCounter\ClickCounter\obj\Debug\ClickCounter.Form1.resources
+F:\ClickCounter\ClickCounter\obj\Debug\ClickCounter.Properties.Resources.resources
+F:\ClickCounter\ClickCounter\obj\Debug\ClickCounter.csproj.GenerateResource.Cache
+F:\ClickCounter\ClickCounter\obj\Debug\ClickCounter.exe.manifest
+F:\ClickCounter\ClickCounter\obj\Debug\ClickCounter.application
+F:\ClickCounter\ClickCounter\obj\Debug\ClickCounter.exe
+F:\ClickCounter\ClickCounter\obj\Debug\ClickCounter.pdb
+E:\Semester 6\C#\Final term\Assignments\ClickCounter\ClickCounter\bin\Debug\ClickCounter.exe.config
+E:\Semester 6\C#\Final term\Assignments\ClickCounter\ClickCounter\obj\Debug\ClickCounter.exe
+E:\Semester 6\C#\Final term\Assignments\ClickCounter\ClickCounter\obj\Debug\ClickCounter.pdb
+E:\Semester 6\C#\Final term\Assignments\ClickCounter\ClickCounter\bin\Debug\ClickCounter.exe.manifest
+E:\Semester 6\C#\Final term\Assignments\ClickCounter\ClickCounter\bin\Debug\ClickCounter.application
+E:\Semester 6\C#\Final term\Assignments\ClickCounter\ClickCounter\bin\Debug\ClickCounter.exe
+E:\Semester 6\C#\Final term\Assignments\ClickCounter\ClickCounter\bin\Debug\ClickCounter.pdb
+E:\Semester 6\C#\Final term\Assignments\ClickCounter\ClickCounter\obj\Debug\ClickCounter.csprojResolveAssemblyReference.cache
+E:\Semester 6\C#\Final term\Assignments\ClickCounter\ClickCounter\obj\Debug\ClickCounter.Form1.resources
+E:\Semester 6\C#\Final term\Assignments\ClickCounter\ClickCounter\obj\Debug\ClickCounter.Properties.Resources.resources
+E:\Semester 6\C#\Final term\Assignments\ClickCounter\ClickCounter\obj\Debug\ClickCounter.csproj.GenerateResource.Cache
+E:\Semester 6\C#\Final term\Assignments\ClickCounter\ClickCounter\obj\Debug\ClickCounter.exe.manifest
+E:\Semester 6\C#\Final term\Assignments\ClickCounter\ClickCounter\obj\Debug\ClickCounter.application
